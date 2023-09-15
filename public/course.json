@@ -1,74 +1,74 @@
 [
     {
         "id": "001",
-        "image": "https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cHJvZ3JhbW1pbmd8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
+        "cover_image": "https://images.unsplash.com/photo-1587620962725-abab7fe55159?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cHJvZ3JhbW1pbmd8ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=500&q=60",
         "course_name": "Introduction to Programming",
         "description": "Learn the fundamentals of programming in this beginner-friendly course.",
         "credit": 3,
-        "price": 49.99
+        "price": 12000
     },
     {
         "id": "002",
-        "image": "https://images.unsplash.com/photo-1594729095022-e2f6d2eece9c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjR8fGRhdGElMjBzY2llbmNlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+        "cover_image": "https://images.unsplash.com/photo-1594729095022-e2f6d2eece9c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjR8fGRhdGElMjBzY2llbmNlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
         "course_name": "Data Science Essentials",
         "description": "Explore the world of data science and analytics in this comprehensive course.",
         "credit": 4,
-        "price": 79.99
+        "price": 6000
     },
     {
         "id": "003",
-        "image": "https://images.unsplash.com/photo-1565106430482-8f6e74349ca1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHdlYiUyMGRldmVsb3BtZW50fGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60g",
+        "cover_image": "https://images.unsplash.com/photo-1565106430482-8f6e74349ca1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHdlYiUyMGRldmVsb3BtZW50fGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60g",
         "course_name": "Web Development Bootcamp",
         "description": "Become a full-stack web developer with hands-on projects and exercises.",
         "credit": 5,
-        "price": 99.99
+        "price": 5000
     },
     {
         "id": "004",
-        "image": "https://images.unsplash.com/photo-1557838923-2985c318be48?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8RGlnaXRhbCUyME1hcmtldGluZ3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "cover_image": "https://images.unsplash.com/photo-1557838923-2985c318be48?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8RGlnaXRhbCUyME1hcmtldGluZ3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
         "course_name": "Digital Marketing Strategies",
         "description": "Master digital marketing techniques to boost your online presence.",
         "credit": 3,
-        "price": 59.99
+        "price": 8000
     },
     {
         "id": "005",
-        "image": "https://plus.unsplash.com/premium_photo-1682124651258-410b25fa9dc0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fE1hY2hpbmUlMjBMZWFybmluZ3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "cover_image": "https://plus.unsplash.com/premium_photo-1682124651258-410b25fa9dc0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTl8fE1hY2hpbmUlMjBMZWFybmluZ3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
         "course_name": "Machine Learning Fundamentals",
         "description": "Dive into the world of machine learning and build predictive models.",
         "credit": 4,
-        "price": 89.99
+        "price": 8000
     },
     {
         "id": "006",
-        "image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8QnVzaW5lc3MlMjBGaW5hbmNlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+        "cover_image": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8QnVzaW5lc3MlMjBGaW5hbmNlfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
         "course_name": "Business Finance Basics",
         "description": "Learn financial concepts and strategies for effective business management.",
         "credit": 3,
-        "price": 69.99
+        "price": 6500
     },
     {
         "id": "007",
-        "image": "https://images.unsplash.com/photo-1626785774625-ddcddc3445e9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8R3JhcGhpYyUyMERlc2lnbnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+        "cover_image": "https://images.unsplash.com/photo-1626785774625-ddcddc3445e9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8R3JhcGhpYyUyMERlc2lnbnxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
         "course_name": "Graphic Design Fundamentals",
         "description": "Develop your design skills and create stunning visuals for various media.",
         "credit": 2,
-        "price": 54.99
+        "price": 5500
     },
     {
         "id": "008",
-        "image": "https://images.unsplash.com/photo-1508830524289-0adcbe822b40?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjR8fEFkdmFuY2VkJTIwSmF2YVNjcmlwdCUyMFByb2dyYW1taW5nfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+        "cover_image": "https://images.unsplash.com/photo-1508830524289-0adcbe822b40?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjR8fEFkdmFuY2VkJTIwSmF2YVNjcmlwdCUyMFByb2dyYW1taW5nfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
         "course_name": "Advanced JavaScript Programming",
         "description": "Master advanced JavaScript topics and build dynamic web applications.",
         "credit": 4,
-        "price": 79.99
+        "price": 10000
     },
     {
         "id": "009",
-        "image": "https://images.unsplash.com/photo-1542626991-cbc4e32524cc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjR8fExlYWRlcnNoaXAlMjBhbmQlMjBNYW5hZ2VtZW50fGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
+        "cover_image": "https://images.unsplash.com/photo-1542626991-cbc4e32524cc?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MjR8fExlYWRlcnNoaXAlMjBhbmQlMjBNYW5hZ2VtZW50fGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60",
         "course_name": "Leadership and Management",
         "description": "Enhance your leadership and management skills for career advancement.",
         "credit": 3,
-        "price": 64.99
+        "price": 6700
     }
 ]
