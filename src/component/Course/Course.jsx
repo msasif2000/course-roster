@@ -1,8 +1,8 @@
 import { FiBookOpen } from "react-icons/fi";
 import PropTypes from 'prop-types';
 
-const Course = ({ course, handleCourseList}) => {
-    const {cover_image, course_name, price, description, credit } = course;
+const Course = ({ course, handleCourseList }) => {
+    const { cover_image, course_name, price, description, credit } = course;
     return (
         <div className="">
             <div className="bg-white rounded-xl p-4">
@@ -13,7 +13,7 @@ const Course = ({ course, handleCourseList}) => {
                     <div className="flex justify-between my-2">
                         <p><span>$ Price: </span>{price}</p>
                         <div className="flex items-center gap-2">
-                            <FiBookOpen/>
+                            <FiBookOpen />
                             <p><span>Credit: </span>{credit}<span>hr</span></p>
                         </div>
                     </div>
@@ -26,7 +26,7 @@ const Course = ({ course, handleCourseList}) => {
 
 Course.propTypes = {
     course: PropTypes.object.isRequired,
-    handleCourseList:PropTypes.func.isRequired
+    handleCourseList: PropTypes.func.isRequired
 }
 
 export default Course;

@@ -16,11 +16,11 @@ function App() {
   const handleCourseLists = course => {
     // Add course to courseLists
     const newCourseLists = courseLists.filter(c => c.id !== course.id);
-    if(courseLists.filter(c => c.id === course.id).length > 0) {
+    if (courseLists.filter(c => c.id === course.id).length > 0) {
       toast.warning('You have already selected this course', {
-        position: toast.POSITION.TOP_CENTER, autoClose: 2000, style: {backgroundColor: 'red', text: 'black'}, closeOnClick: true,  theme: 'colored'
+        position: toast.POSITION.TOP_CENTER, autoClose: 2000, style: { backgroundColor: 'red', text: 'black' }, closeOnClick: true, theme: 'colored'
 
-    });
+      });
     }
     else if (newCourseLists && (remainingCredit >= course.credit)) {
       newCourseLists.push(course);
@@ -33,8 +33,8 @@ function App() {
 
     if (remainingCredit < course.credit) {
       toast.warning('you have not enough credit', {
-        position: toast.POSITION.TOP_CENTER, autoClose: 2000,  closeOnClick: true, theme: 'colored'
-    });
+        position: toast.POSITION.TOP_CENTER, autoClose: 2000, closeOnClick: true, theme: 'colored'
+      });
     }
     else if ((remainingCredit >= course.credit) && courseLists.filter(c => c.id === course.id).length === 0) {
       const newRemainingCredit = remainingCredit - course.credit;
